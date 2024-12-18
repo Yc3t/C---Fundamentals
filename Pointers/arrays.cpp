@@ -12,6 +12,11 @@ int main() {
     cout << *p1++ <<"\n";
   }
 
+  p1 = arr;
+    
+  cout << p1 <<"\n" << arr;
+
+
 
   return 0;
 }
