@@ -1,7 +1,7 @@
 # C++ Fundamentals Course
 
 ## Table of Contents
-- [Printing](./Printing/)
+- [Printing](./Printing/) - [x]
 - [Data Types and Variables](./Data%20Types%20and%20Variables/)
 - [Operators](./Operators/)
 - [Selection](./Selection/)
