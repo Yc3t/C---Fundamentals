@@ -12,8 +12,6 @@ Modify the value pointed to by p2 (which is the same as val2) to be the sum of t
 
 Output the final values of val1 and val2 to the console, separated by a space and followed by a newline.
 */
-
-
 int main() {
     int val1 = 4;
     int val2 = 5;
