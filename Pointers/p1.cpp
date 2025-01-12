@@ -22,6 +22,7 @@ int main() {
     *p1 = 10;
 
     *p2 = *p1 + 6;
+    *p3 = *p1 + *p2
 
     std::cout << "val1: "<< val1 << "\n" << "val2: " << val2 << std::endl;
     return 0;
