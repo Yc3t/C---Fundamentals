@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [Printing](./Printing/) - [x]
-- [Data Types and Variables](./Data%20Types%20and%20Variables/)
+- [Data Types and Variables](./Data%20Types%20and%20Variables/) - [x]
 - [Operators](./Operators/)
 - [Selection](./Selection/)
 - [Loops](./Loops/)
